@@ -113,3 +113,4 @@ ml_project.egg-info/
 src/ml_project.egg-info/
 catboost_info/
 logs/
+AWS_EC2_cmd_steps
