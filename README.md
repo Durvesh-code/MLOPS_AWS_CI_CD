@@ -1,4 +1,4 @@
-# MLOps AWS CI/CD Pipeline
+# Student Performance Predictor with AWS MLOps Pipeline
 
 This repository contains a complete Machine Learning Operations (MLOps) project demonstrating an automated Continuous Integration and Continuous Deployment (CI/CD) pipeline. The pipeline leverages GitHub Actions alongside Amazon Web Services (AWS) to automatically build, push, and deploy a containerized machine learning application.
 
